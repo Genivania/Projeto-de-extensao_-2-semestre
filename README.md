@@ -1,2 +1,3 @@
-# Projeto de extensão - Desenvolvimento Rápido de Aplicações em Python
+# Projeto de extensão
+## Desenvolvimento Rápido de Aplicações em Python
 Este projeto avaliativo para a faculdade tem como objetivo criar soluções rápidas e eficazes utilizando Python, com foco em atender demandas reais da comunidade local. Durante a fase inicial, foram realizados encontros e conversas com membros da comunidade para identificar as principais "dores" ou queixas enfrentadas. A situação-problema identificada envolve a necessidade de ferramentas que facilitem a gestão de atendimentos e o agendamento de serviços, especialmente para pequenos negócios. Assim, o projeto busca não apenas desenvolver habilidades técnicas, mas também proporcionar soluções que atendam diretamente às necessidades da comunidade.
